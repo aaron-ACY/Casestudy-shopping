@@ -110,7 +110,7 @@ const headerContent = `
 
             </div>
             </nav>
-                <a href="/" class="header__logo">
+                <a href="#" class="header__logo">
                     <img src="./assets/img/logo-mobile.svg" alt="Logo">
                 </a>
                 
